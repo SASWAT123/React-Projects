@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.badge{
+  background-color: crimson;
+  color: white;
+  font-weight: 40px;
+  border-radius: 90px;
+  display: inline-block;
+  margin: 8px;
+  padding: 10px;
+ 
+}
+
+.badge1{
+  background-color: black;
+  color: white;
+  font-weight: 40px;
+  border-radius: 90px;
+  display: inline-block;
+  margin: 8px;
+  padding: 10px;
+ 
+}
+
+#main{
+  text-align: center;
+  padding: 10px;
+}
